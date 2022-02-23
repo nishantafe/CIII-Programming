@@ -11,7 +11,7 @@ print("Save the notebook frequently")
 
 # Correct the following code to fix the NameError
 student_name = "Alton"
-print(Student_name)
+print(student_name)
 
 # Correct the following code to fix the TypeError
 total = 3
