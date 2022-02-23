@@ -10,3 +10,8 @@ score += 1  # Earned 1
 score += 1  # Earned 1
 score += 1  # Earned 1
 print("Final score:", score)  # The score will be 3
+
+"""Find the double"""
+number = int(input("Enter a number to find its double: "))
+number *= 2  # same as: number = number * 2
+print("The double is:", number)
