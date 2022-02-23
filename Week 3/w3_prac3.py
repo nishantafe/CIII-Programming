@@ -1,3 +1,5 @@
+"""Operators in Python"""
+
 # See the deference between the results of the 2 following lines:
 print((5 + 5) * (5 + 5))
 print(5 + 5 * 5 + 5)
@@ -8,3 +10,4 @@ if number % 2 == 0:
     print(number, "is even")
 else:
     print(number, "is odd")
+
