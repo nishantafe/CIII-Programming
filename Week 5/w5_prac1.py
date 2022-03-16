@@ -15,5 +15,5 @@
 count = 1
 while count <= 10:
     print(count)
-    count = count + 1
+    count = count + 1  # same as     count += 1
 print("bang!")

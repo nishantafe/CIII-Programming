@@ -20,7 +20,7 @@ number = int(input("Enter a number to get its properties: "))
 if number % 4 == 0:
     print(number, "is divisible by 4")
 
-if number % 2 == 0:
+elif number % 2 == 0:
     print(number, "is divisible by 2")
 
 if number % 2 != 0:
