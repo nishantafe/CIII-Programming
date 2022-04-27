@@ -1,3 +1,0 @@
-nishan 123
-john 233
-sam 1323
