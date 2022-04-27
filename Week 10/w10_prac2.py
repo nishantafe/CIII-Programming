@@ -1,9 +1,11 @@
+"""https://www.studytafensw.edu.au/lesson?id=343114&page=232997"""
+
 import math
 import string
 import random
 import time
 
-my_pi = math.pi;
+my_pi = math.pi
 print(my_pi)
 
 letters = string.ascii_letters
