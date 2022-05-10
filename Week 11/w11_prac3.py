@@ -1,6 +1,6 @@
 """Reading a file"""
 file_in = open("data.txt", "r")  # read and stores the content of a file in a variable
-# print(file_in.read())  # prints the content of a file
+print(file_in.read())  # prints the content of a file
 
 """Adding line from a file to a list"""
 fruit = []
