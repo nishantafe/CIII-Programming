@@ -1,4 +1,5 @@
 my_dictionary = {}
+
 # Read from file
 file_in = open("data.txt", "r")
 for line in file_in:
